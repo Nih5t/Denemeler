@@ -1,0 +1,16 @@
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\bin\Debug\net5.0\diziler-array-sınıfı-metodları.exe
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\bin\Debug\net5.0\diziler-array-sınıfı-metodları.deps.json
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\bin\Debug\net5.0\diziler-array-sınıfı-metodları.runtimeconfig.json
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\bin\Debug\net5.0\diziler-array-sınıfı-metodları.runtimeconfig.dev.json
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\bin\Debug\net5.0\diziler-array-sınıfı-metodları.dll
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\bin\Debug\net5.0\ref\diziler-array-sınıfı-metodları.dll
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\bin\Debug\net5.0\diziler-array-sınıfı-metodları.pdb
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.csproj.AssemblyReference.cache
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.AssemblyInfoInputs.cache
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.AssemblyInfo.cs
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.csproj.CoreCompileInputs.cache
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.dll
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\ref\diziler-array-sınıfı-metodları.dll
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.pdb
+C:\Users\basat\Desktop\Proje\diziler-array-sınıfı-metodları\obj\Debug\net5.0\diziler-array-sınıfı-metodları.genruntimeconfig.cache
